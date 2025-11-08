@@ -1,0 +1,13 @@
+/target/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+*.jar
+
+*.swp
+*~
