@@ -31,4 +31,4 @@ cd ChatPlugin
 mvn clean package
 ```
 
-3. Place the generated `ChatPlugin/target/ChatPlugin-1.0.jar` file into your server's `plugins` folder
+3. Place the generated `ChatPlugin/target/ChatPlugin.jar` file into your server's `plugins` folder
