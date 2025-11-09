@@ -1,6 +1,6 @@
 # ChatPlugin
 
-A simple and lightweight chat formatting plugin for Minecraft.
+A simple and lightweight chat formatting plugin for Minecraft servers.
 
 ## Requirements
 
